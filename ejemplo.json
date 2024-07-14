@@ -1,17 +1,27 @@
 [
 	{
-		"alumno":"Pedro",
-		"nota":9.09,
+		"alumno":"Diego",
+		"nota":9,
 		"ranking":10
 	},
 	{
 		"alumno":"Juan",
-		"nota":4,
-		"ranking":150
+		"nota":8,
+		"ranking":30
 	},
 	{
 		"alumno":"Leo",
-		"nota":1,
-		"ranking":130
+		"nota":7,
+		"ranking":50
+	},
+	{
+		"alumno":"Diana",
+		"nota":6,
+		"ranking":80
+	},
+	{
+		"alumno":"Cristian",
+		"nota":5,
+		"ranking":90
 	}
 ]
