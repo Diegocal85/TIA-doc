@@ -1,0 +1,27 @@
+[
+	{
+		"alumno":"Diego",
+		"nota":9.99,
+		"ranking":10
+	},
+	{
+		"alumno":"Vero",
+		"nota":9,
+		"ranking":21
+	},
+	{
+		"alumno":"Cris",
+		"nota":8,
+		"ranking":45
+	},
+	{
+		"alumno":"Alex",
+		"nota":7,
+		"ranking":38
+	},
+	{
+		"alumno":"Kami",
+		"nota":6,
+		"ranking":90
+	}
+]
